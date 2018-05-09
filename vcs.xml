@@ -3,7 +3,79 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://git.sana-karelia.ru" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.sana-karelia.ru/root/lk.sana-karelia.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Foodband/FoodbandIS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/Foodband/website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/life-analytics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru" />
+          <option name="userName" value="artem" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/temaptz/ticketscloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/temaptz/life-analytics-robot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BenRevo/benrevo-react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/temaptz/angular-ssr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/nerudtrade.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/lk.sana-karelia.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/client.sana-karelia.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/temaptz/life-analytics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/lk.sana-karelia.ru-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/angular-event-list.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/artem-urvanov.ru.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seryoga279/foodBand-test-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.artem-urvanov.ru/artem/recording-service-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
